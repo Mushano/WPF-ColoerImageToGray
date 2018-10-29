@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数字图像处理1", "数字图像处理1\数字图像处理1.csproj", "{144E6BED-1DB4-4C0B-A17F-2183ADF11EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144E6BED-1DB4-4C0B-A17F-2183ADF11EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144E6BED-1DB4-4C0B-A17F-2183ADF11EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144E6BED-1DB4-4C0B-A17F-2183ADF11EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144E6BED-1DB4-4C0B-A17F-2183ADF11EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9C9D04-B878-4262-B206-DFCFBE6876DA}
+	EndGlobalSection
+EndGlobal
